@@ -1,0 +1,7 @@
+.env
+__pycache__
+
+test_defended_isolated.py
+test_hijack.py
+test_isolated_headline.py
+test_stretch_isolated.py
